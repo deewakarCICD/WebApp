@@ -1,0 +1,5 @@
+*~
+*.swp
+appsettings.json
+bin/
+obj/
